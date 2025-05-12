@@ -10,7 +10,7 @@ This project integrates with the urban-air-quality-KG (https://github.com/XiangX
 * Simulate their impact on air quality using SHERPA modules.
 * Provide insights into the effectiveness of various mitigation strategies.
 
-Project Documentation: [https://www.staff.ncl.ac.uk/xiangxie/github-urban-air-quality-kg-documentation/](https://www.staff.ncl.ac.uk/xiangxie/github-urban-air-mitigation-sim-documentation/)
+Project Documentation: https://www.staff.ncl.ac.uk/xiangxie/github-urban-air-mitigation-sim-documentation/
 
 ---
 
